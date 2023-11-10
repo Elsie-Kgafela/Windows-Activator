@@ -13,3 +13,5 @@
 - Now right click on `.bat` file and click on `Run as Administrator`.
 - During all these steps please connect your PC to your own mobile hotspot not from any proxy server.
 - After successful activation restart your PC.
+
+
